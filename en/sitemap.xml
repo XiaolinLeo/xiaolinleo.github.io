@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>leo.ci/authors/</loc>
+    <loc>https://www.leo.ci/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="leo.ci/pt-br/authors/"
+                href="https://www.leo.ci/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="leo.ci/authors/"
+                href="https://www.leo.ci/authors/"
                 />
   </url><url>
-    <loc>leo.ci/categories/</loc>
+    <loc>https://www.leo.ci/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="leo.ci/pt-br/categories/"
+                href="https://www.leo.ci/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="leo.ci/categories/"
+                href="https://www.leo.ci/categories/"
                 />
   </url><url>
-    <loc>leo.ci/</loc>
+    <loc>https://www.leo.ci/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="leo.ci/pt-br/"
+                href="https://www.leo.ci/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="leo.ci/"
+                href="https://www.leo.ci/"
                 />
   </url><url>
-    <loc>leo.ci/series/</loc>
+    <loc>https://www.leo.ci/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="leo.ci/pt-br/series/"
+                href="https://www.leo.ci/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="leo.ci/series/"
+                href="https://www.leo.ci/series/"
                 />
   </url><url>
-    <loc>leo.ci/tags/</loc>
+    <loc>https://www.leo.ci/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="leo.ci/pt-br/tags/"
+                href="https://www.leo.ci/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="leo.ci/tags/"
+                href="https://www.leo.ci/tags/"
                 />
   </url>
 </urlset>
